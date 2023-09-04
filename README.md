@@ -1,4 +1,8 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=swkim&fontSize=50" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksw06086&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksw06086&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ksw06086/ksw06086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
