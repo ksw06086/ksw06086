@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=swkim&fontSize=50" />
+# 🌱 swkim
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksw06086&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
